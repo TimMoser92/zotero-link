@@ -28,3 +28,8 @@ so its syntax and built-in filters are also available.
 ## License
 
 MIT
+
+
+## Development
+
+Run npm run dev to compile your plugin from main.ts to main.js.
